@@ -1,6 +1,6 @@
 lane :test do
   imessage(
-    to: "1234567890"
+    to: "1234567890",
     text: "New build!"
   )
 end
